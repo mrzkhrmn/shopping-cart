@@ -1,0 +1,14 @@
+.card-item {
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.663);
+  border-radius: 10px;
+  overflow: hidden;
+  color: white;
+}
+
+.card-content {
+  background-color: rgba(13, 13, 87, 0.767);
+}
+
+.card-item img {
+  width: 100%;
+}
